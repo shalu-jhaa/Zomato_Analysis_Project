@@ -35,7 +35,9 @@ Histogram of ratings
 Heatmap of restaurant type vs online order
 
 Votes distribution across restaurant types
-Insights
+
+
+Insights:
 
 Online ordering is more common in quick service restaurants.
 
